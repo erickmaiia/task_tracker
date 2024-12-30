@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "description": "Buy groceries and cook dinner",
+        "status": "todo",
+        "createdAt": "2024-12-30 20:05:09",
+        "updatedAt": "2024-12-30 20:05:17"
+    }
+]
